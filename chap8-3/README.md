@@ -76,7 +76,7 @@ bash-3.2$ heroku open<br>
 ■「Heroku」上の replの使用ユーザー、パスワードを登録する<br>
 
 bash-3.2$ heroku config:add REPL_USER=[...] REPL_PASSWORD=[...]<br>
-bash-3.2$ lein repl :connect http://$REPL_USER:$REPL_PASSWORD@hw_heroku.herokuapp.com/repl<br>
+bash-3.2$ lein repl :connect `http://$REPL_USER:$REPL_PASSWORD@hw_heroku.herokuapp.com/repl`<br>
 
 
 ■ブラウザの URL 指定（"~/repl"）で、「Heroku」上の repl へ接続する<br>
