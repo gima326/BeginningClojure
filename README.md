@@ -35,6 +35,10 @@
 
 [正誤表](https://gima326.github.io/BeginningClojure/errata.html)
 
+「[正誤表][1]」 (https://gima326.github.io/BeginningClojure/errata.html)
+
+[1]: https://gima326.github.io/BeginningClojure/errata.html
+
 
 ### 2021 年末、『はじめてのClojure』（登尾徳誠：Tokusei Noborio著）をはじめて読んでみたのだが…。
 
