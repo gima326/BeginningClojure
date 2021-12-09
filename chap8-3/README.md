@@ -41,7 +41,7 @@ hw_heroku/<br>
 
 bash-3.2$ heroku login<br>
 heroku: Press any key to open up the browser to login or q to exit:<br>
-Opening browser to https://cli-auth.heroku.com/auth/cli/browser/71bb7c55-b0fc-462c-bac5-77cbb0e5b494?requestor=SFMyNTY.g2gDbQAAAAwxMDYuMTU0LjEuMzduBgCQwqmYfQFiAAFRgA.xA_-HCX2Eey8xaXjW0Ny0woEY0rlP-3543Vx_K9SRzc<br>
+Opening browser to `https://cli-auth.heroku.com/auth/cli/browser/71bb7c55-b0fc-462c-bac5-77cbb0e5b494?requestor=SFMyNTY.g2gDbQAAAAwxMDYuMTU0LjEuMzduBgCQwqmYfQFiAAFRgA.xA_-HCX2Eey8xaXjW0Ny0woEY0rlP-3543Vx_K9SRzc`<br>
 Logging in... done<br>
 Logged in as [ Heroku に登録したメールアドレス ]<br>
 
