@@ -33,7 +33,7 @@
 
 2021 年末に本書『はじめてのClojure』を読んで、見つけた誤りを追記しました。
 
-「[正誤表][1]」[ https\://gima326.github.io/BeginningClojure/errata.html ]<br><br>
+「[正誤表][1]」[ 'https://gima326.github.io/BeginningClojure/errata.html' ]<br><br>
 
 [1]: https://gima326.github.io/BeginningClojure/errata.html
 
