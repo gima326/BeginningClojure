@@ -26,16 +26,16 @@
 ・chap8-3   ... 8.3 「『Heroku』でのサービス運用」（P114 - 120）<br>
 ・docs      ... 「正誤表」など。<br>
 
-・original  ... オリジナルのソースコード<br>
+・original  ... オリジナルのソースコード<br><br>
 
 
 ### 正誤表
 
 2021 年末に本書『はじめてのClojure』を読んで、見つけた誤りを追記しました。
 
-「[正誤表][1]」 [ https://gima326.github.io/BeginningClojure/errata.html ]
+「[正誤表][1]」 [https://gima326.github.io/BeginningClojure/errata.html]
 
-[1]: https://gima326.github.io/BeginningClojure/errata.html
+[1]: https://gima326.github.io/BeginningClojure/errata.html<br><br>
 
 
 ### 2021 年末、『はじめてのClojure』（登尾徳誠：Tokusei Noborio著）をはじめて読んでみたのだが…。
